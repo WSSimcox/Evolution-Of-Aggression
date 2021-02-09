@@ -3,9 +3,7 @@ A Python project to simulate the evolution of aggression.
 
 Created by Kyle Dukart and William Simcox.
 
-This project was created using repl.it
-https://repl.it/@Shucadoodle/Project2#main.py
-
+This project was created using repl.it.
 
 <b>Simulation Overview</b>: 
 Simulate a population of N agents in competition over limited resources. Each agent has a game theory strategy.
