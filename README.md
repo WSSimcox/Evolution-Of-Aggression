@@ -1,7 +1,7 @@
 # EvolutionOfAggression
 A Python project to simulate the evolution of aggression.
 
-Created by Kyle Dukart and William Simcox.
+Created by [Kyle Dukart](https://github.com/kyledukart) and [William Simcox](https://github.com/WSSimcox).
 
 This project was created using repl.it.
 
